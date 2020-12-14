@@ -4,6 +4,8 @@
 <br>
 Disclaimer: ReHost Server is currently being ported to Go, the Python version will still be available but no longer supported.
 <br>
+It is recommended that you switch to ReHost Server 2 as soon as possible because this one is unsupported and many has security issuses
+<br>
 The Python version of ReHost server is deprecated and no longer supported, a new version of ReHost Server will be released
 <br>
 <br>
@@ -11,7 +13,7 @@ A open-source web server software written in Python
 <br>
 Download ReHost Server:
 <br>
-www.rehostserver.cybersafe.ezyro.com/downloads/
+www.rehostserver.cybersafe.ezyro.com/olddownloads/
 <br>
 Or
 <br>
