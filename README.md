@@ -4,7 +4,8 @@
 <br>
 Disclaimer: ReHost Server is currently being ported to Go, the Python version will still be available but no longer supported.
 <br>
-The Python version of ReHost server will be deprecated in 4 Months
+The Python version of ReHost server is deprecated and no longer supported, a new version of ReHost Server will be released
+<br>
 <br>
 A open-source web server software written in Python
 <br>
